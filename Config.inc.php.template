@@ -1,0 +1,11 @@
+<?php
+
+// JsCounter - Configuration
+
+// MySQL
+define("MySQL_Host", "localhost");
+define("MySQL_User", "YourUser");
+define("MySQL_Pass", "YourPassword");
+define("MySQL_DB", "YourDatabase");
+
+?>
